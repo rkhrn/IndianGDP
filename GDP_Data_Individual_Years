@@ -59,3 +59,303 @@ Chattisgarh,2020,3446480
 Chattisgarh,2021,3477520
 Chattisgarh,2022,4064160
 Chattisgarh,2023,4576080
+Goa,2012,42367
+Goa,2013,38120
+Goa,2014,35921
+Goa,2015,40633
+Goa,2016,550540
+Goa,2017,629760
+Goa,2018,693520
+Goa,2019,718530
+Goa,2020,750320
+Goa,2021,757050
+Goa,2022,826040
+Goa,2023,900000
+Gujarat,2012,615606
+Gujarat,2013,724495
+Gujarat,2014,807623
+Gujarat,2015,895027
+Gujarat,2016,10290100
+Gujarat,2017,11671560
+Gujarat,2018,13290950
+Gujarat,2019,14921560
+Gujarat,2020,16171430
+Gujarat,2021,16161060
+Gujarat,2022,19370660
+Gujarat,2023,�
+Haryana,2012,297539
+Haryana,2013,347032
+Haryana,2014,400662
+Haryana,2015,437462
+Haryana,2016,4955040
+Haryana,2017,5614240
+Haryana,2018,6388320
+Haryana,2019,6989400
+Haryana,2020,7321950
+Haryana,2021,7418500
+Haryana,2022,8706650
+Haryana,2023,9941540
+Himachal Pradesh,2012,72720
+Himachal Pradesh,2013,82820
+Himachal Pradesh,2014,94764
+Himachal Pradesh,2015,104369
+Himachal Pradesh,2016,1142390
+Himachal Pradesh,2017,1256340
+Himachal Pradesh,2018,1385510
+Himachal Pradesh,2019,1483830
+Himachal Pradesh,2020,1591640
+Himachal Pradesh,2021,1552510
+Himachal Pradesh,2022,1762690
+Himachal Pradesh,2023,1954050
+Jammu & Kashmir,2012,78254
+Jammu & Kashmir,2013,87105
+Jammu & Kashmir,2014,95893
+Jammu & Kashmir,2015,100404
+Jammu & Kashmir,2016,1171680
+Jammu & Kashmir,2017,1248480
+Jammu & Kashmir,2018,1397090
+Jammu & Kashmir,2019,1598590
+Jammu & Kashmir,2020,�
+Jammu & Kashmir,2021,�
+Jammu & Kashmir,2022,�
+Jammu & Kashmir,2023,�
+Jharkhand,2012,150918
+Jharkhand,2013,174724
+Jharkhand,2014,188567
+Jharkhand,2015,217107
+Jharkhand,2016,2066130
+Jharkhand,2017,2362500
+Jharkhand,2018,2698160
+Jharkhand,2019,3056950
+Jharkhand,2020,3103050
+Jharkhand,2021,2966640
+Jharkhand,2022,3588630
+Jharkhand,2023,3937220
+Karnataka,2012,603778
+Karnataka,2013,691700
+Karnataka,2014,817886
+Karnataka,2015,921788
+Karnataka,2016,10451680
+Karnataka,2017,12076080
+Karnataka,2018,13332400
+Karnataka,2019,14793910
+Karnataka,2020,16111340
+Karnataka,2021,16250730
+Karnataka,2022,19627250
+Karnataka,2023,22413680
+Kerala,2012,364048
+Kerala,2013,412313
+Kerala,2014,465041
+Kerala,2015,526002
+Kerala,2016,5619940
+Kerala,2017,6348860
+Kerala,2018,7015880
+Kerala,2019,7882860
+Kerala,2020,8129350
+Kerala,2021,7717240
+Kerala,2022,9324700
+Kerala,2023,�
+Madhya Pradesh,2012,315561
+Madhya Pradesh,2013,380924
+Madhya Pradesh,2014,437737
+Madhya Pradesh,2015,481982
+Madhya Pradesh,2016,5410680
+Madhya Pradesh,2017,6498230
+Madhya Pradesh,2018,7262840
+Madhya Pradesh,2019,8298050
+Madhya Pradesh,2020,9278550
+Madhya Pradesh,2021,9616430
+Madhya Pradesh,2022,11361370
+Madhya Pradesh,2023,13228210
+Maharashtra,2012,1272967
+Maharashtra,2013,1448466
+Maharashtra,2014,1647506
+Maharashtra,2015,1792122
+Maharashtra,2016,19662250
+Maharashtra,2017,21981850
+Maharashtra,2018,23527820
+Maharashtra,2019,25288540
+Maharashtra,2020,26573710
+Maharashtra,2021,26275420
+Maharashtra,2022,31080220
+Maharashtra,2023,�
+Manipur,2012,12915
+Manipur,2013,13748
+Manipur,2014,16198
+Manipur,2015,18043
+Manipur,2016,195310
+Manipur,2017,212940
+Manipur,2018,257890
+Manipur,2019,273880
+Manipur,2020,298130
+Manipur,2021,297760
+Manipur,2022,365940
+Manipur,2023,�
+Meghalaya,2012,19918
+Meghalaya,2013,21872
+Meghalaya,2014,22938
+Meghalaya,2015,24408
+Meghalaya,2016,251170
+Meghalaya,2017,274390
+Meghalaya,2018,295080
+Meghalaya,2019,321760
+Meghalaya,2020,347700
+Meghalaya,2021,337760
+Meghalaya,2022,387850
+Meghalaya,2023,426970
+Mizoram,2012,7259
+Mizoram,2013,8362
+Mizoram,2014,10293
+Mizoram,2015,11559
+Mizoram,2016,151390
+Mizoram,2017,171920
+Mizoram,2018,193850
+Mizoram,2019,219120
+Mizoram,2020,249900
+Mizoram,2021,239230
+Mizoram,2022,278240
+Mizoram,2023,�
+Nagaland,2012,11839
+Nagaland,2013,13619
+Nagaland,2014,16612
+Nagaland,2015,18414
+Nagaland,2016,195240
+Nagaland,2017,217220
+Nagaland,2018,243930
+Nagaland,2019,265270
+Nagaland,2020,297160
+Nagaland,2021,298320
+Nagaland,2022,319130
+Nagaland,2023,�
+Odisha,2012,227872
+Odisha,2013,258275
+Odisha,2014,291709
+Odisha,2015,321971
+Odisha,2016,3285500
+Odisha,2017,3928040
+Odisha,2018,4403950
+Odisha,2019,4986110
+Odisha,2020,5375020
+Odisha,2021,5401500
+Odisha,2022,6708810
+Odisha,2023,7748690
+Punjab,2012,266628
+Punjab,2013,297734
+Punjab,2014,334714
+Punjab,2015,368011
+Punjab,2016,3900870
+Punjab,2017,4269880
+Punjab,2018,4710140
+Punjab,2019,5215100
+Punjab,2020,5370310
+Punjab,2021,5408530
+Punjab,2022,6142270
+Punjab,2023,6731070
+Rajasthan,2012,436465
+Rajasthan,2013,494004
+Rajasthan,2014,549701
+Rajasthan,2015,612194
+Rajasthan,2016,6814820
+Rajasthan,2017,7605870
+Rajasthan,2018,8325290
+Rajasthan,2019,9115190
+Rajasthan,2020,9986790
+Rajasthan,2021,10194420
+Rajasthan,2022,12181930
+Rajasthan,2023,14136200
+Sikkim,2012,11165
+Sikkim,2013,12338
+Sikkim,2014,13862
+Sikkim,2015,15209
+Sikkim,2016,180340
+Sikkim,2017,206870
+Sikkim,2018,259710
+Sikkim,2019,284020
+Sikkim,2020,314410
+Sikkim,2021,330180
+Sikkim,2022,375570
+Sikkim,2023,427560
+Tamil Nadu,2012,751485
+Tamil Nadu,2013,855481
+Tamil Nadu,2014,971090
+Tamil Nadu,2015,1092564
+Tamil Nadu,2016,11765000
+Tamil Nadu,2017,13026390
+Tamil Nadu,2018,14650510
+Tamil Nadu,2019,16302090
+Tamil Nadu,2020,17431440
+Tamil Nadu,2021,17880740
+Tamil Nadu,2022,20712860
+Tamil Nadu,2023,23645140
+Telangana,2012,359433
+Telangana,2013,401493
+Telangana,2014,452186
+Telangana,2015,511178
+Telangana,2016,5779020
+Telangana,2017,6583250
+Telangana,2018,7500500
+Telangana,2019,8574270
+Telangana,2020,9500900
+Telangana,2021,9428140
+Telangana,2022,11289070
+Telangana,2023,13133910
+Tripura,2012,19208
+Tripura,2013,21663
+Tripura,2014,25593
+Tripura,2015,29667
+Tripura,2016,359380
+Tripura,2017,394790
+Tripura,2018,437160
+Tripura,2019,498230
+Tripura,2020,541510
+Tripura,2021,535040
+Tripura,2022,625500
+Tripura,2023,726360
+Uttar Pradesh,2012,724049
+Uttar Pradesh,2013,822903
+Uttar Pradesh,2014,944146
+Uttar Pradesh,2015,1043371
+Uttar Pradesh,2016,11378080
+Uttar Pradesh,2017,12887000
+Uttar Pradesh,2018,14399260
+Uttar Pradesh,2019,15821800
+Uttar Pradesh,2020,17000620
+Uttar Pradesh,2021,16453170
+Uttar Pradesh,2022,19745320
+Uttar Pradesh,2023,22575750
+Uttarakhand,2012,115523
+Uttarakhand,2013,131835
+Uttarakhand,2014,149817
+Uttarakhand,2015,161985
+Uttarakhand,2016,1771630
+Uttarakhand,2017,1951250
+Uttarakhand,2018,2202220
+Uttarakhand,2019,2303140
+Uttarakhand,2020,2392470
+Uttarakhand,2021,2368600
+Uttarakhand,2022,2721590
+Uttarakhand,2023,3026210
+West Bengal,2012,2317000
+West Bengal,2013,4684000
+West Bengal,2014,5500000
+West Bengal,2015,6750000
+West Bengal,2016,7973000
+West Bengal,2017,8725270
+West Bengal,2018,9747000
+West Bengal,2019,11020540
+West Bengal,2020,11790970
+West Bengal,2021,11558200
+West Bengal,2022,13639260
+West Bengal,2023,15549920
+Delhi,2012,343767
+Delhi,2013,391238
+Delhi,2014,443783
+Delhi,2015,492424
+Delhi,2016,5508040
+Delhi,2017,6160850
+Delhi,2018,6779000
+Delhi,2019,7383890
+Delhi,2020,7929110
+Delhi,2021,7634350
+Delhi,2022,9046420
+Delhi,2023,10437590
